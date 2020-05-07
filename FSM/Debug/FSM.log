@@ -1,2 +1,10 @@
-﻿  FSM.cpp
+﻿  lexer.cpp
+C:\Users\danch\source\repos\FSM\FSM\lexer.cpp(217,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danch\source\repos\FSM\FSM\lexer.cpp(234,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danch\source\repos\FSM\FSM\lexer.cpp(251,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danch\source\repos\FSM\FSM\lexer.cpp(260,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danch\source\repos\FSM\FSM\lexer.cpp(286,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danch\source\repos\FSM\FSM\lexer.cpp(295,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danch\source\repos\FSM\FSM\lexer.cpp(311,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danch\source\repos\FSM\FSM\lexer.cpp(337,23): warning C4018: <: несоответствие типов со знаком и без знака
   FSM.vcxproj -> C:\Users\danch\source\repos\FSM\Debug\FSM.exe

@@ -1,0 +1,4 @@
+keyword 10
+whitespace 9
+id 0
+operator 8
